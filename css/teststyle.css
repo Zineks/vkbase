@@ -1,0 +1,13 @@
+* {
+    color: #1d72f2;
+}
+
+.test {
+    color: #e1e5eb;
+    font-size: 150;
+    font-family: Verdana;
+    text-align: center;
+    position: absolute;
+    top: 23%;
+    right: 40%;
+}
